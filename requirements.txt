@@ -1,0 +1,6 @@
+aiohttp
+cchardet
+aiodns
+pyyaml==5.1.1
+sqlalchemy==1.3.4
+aiopg[sa]

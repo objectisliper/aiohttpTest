@@ -1,0 +1,8 @@
+postgres:
+  database: aiotest
+  user: root
+  password: dev
+  host: localhost
+  port: 5432
+  minsize: 1
+  maxsize: 5
